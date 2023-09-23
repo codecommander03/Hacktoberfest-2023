@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Anandsg/Hacktoberfest-2023?style=for-the-badge&logo=appveyor)](https://github.com/Anandsg/Hacktoberfest-2023/network)
 [![GitHub stars](https://img.shields.io/github/stars/Anandsg/Hacktoberfest-2023?style=for-the-badge&logo=appveyor)](https://github.com/Anandsg/Hacktoberfest-2023/stargazers)
 
-![https://img.shields.io/badge/-Hacktoberfest_2023-darkred?style=flat&logo=Hacktoberfest&logoColor=white](https://img.shields.io/badge/Hacktoberfest-2022-red)&nbsp;
+![https://img.shields.io/badge/-Hacktoberfest_2023-darkred?style=flat&logo=Hacktoberfest&logoColor=white](https://img.shields.io/badge/Hacktoberfest-2023-red)&nbsp;
 
 <p align="center" >
   <img src="https://hacktoberfest.com/_next/static/media/opengraph.e5fafe07.png" width="950" height="400"> 
@@ -12,7 +12,7 @@
 
 ## Want to Contribute 🔥 :
 
-- Refer to <a href="https://github.com/Anandsg/Hacktoberfest-2023/main/CONTRIBUTING.md">Contributing Guide</a><br>
+- Refer to <a href="https://github.com/Anandsg/Hacktoberfest-2023/blob/main/CONTRIBUTING.md">Contributing Guide</a><br>
 - Don't forget to follow [@Anandsg](https://github.com/Anandsg) ⭐😊
 
 And yes it is open source with a [public repository](https://github.com/Anandsg/Hacktoberfest-2023)
@@ -153,4 +153,3 @@ Thanks to all the contributors who worked for this project to stay alive! 😊�
 <a align="center" href="https://github.com/Anandsg/Hacktoberfest-2023/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Anandsg/Hacktoberfest-2023&&max=817" />
 </a>
->>>>>>> 6a77da4 (Hacktoberfest-2023 initial setup)
