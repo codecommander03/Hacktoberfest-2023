@@ -11,7 +11,7 @@ To contribute to this repository, you may ask for assignment of a particular tas
 ### Topics Appreciated
 
 - Searching and Sorting
-- DSN Problems (any)
+- DSA Problems (any)
 - Dynamic Programming
 - Bitmasking
 - Graphs and Trees
