@@ -146,10 +146,27 @@ I will merge all your changes into the main project branch shortly, and you will
 
 ## All the best 🙌🏼
 
-## Our Amazing Contributors 👨‍👨‍👦‍👦❤️
+<!-- readme: contributors -start -->
 
-Thanks to all the contributors who worked for this project to stay alive! 😊😎
+## Our Amazing Contributors
 
-<a align="center" href="https://github.com/Anandsg/Hacktoberfest-2023/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Anandsg/Hacktoberfest-2023&&max=817" />
-</a>
+#### Currently there are minimal contributors for this repository. Feel free to contribute! 🚀
+
+<table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Anandsg">
+            <img src="https://avatars.githubusercontent.com/u/109084312?v=4" width="80;" alt="Anandsg"/>
+            <br />
+            <sub><b>Anand Gadagin</b></sub>
+        </a>
+      </td>
+         <td align="center">
+        <a href="https://github.com/codecommander03">
+            <img src="https://avatars.githubusercontent.com/u/114931868?v=4" width="80;" alt="Anandsg"/>
+            <br />
+            <sub><b>Aditya Gupta</b></sub>
+        </a>
+      </td>
+    </tr>
+</table>
